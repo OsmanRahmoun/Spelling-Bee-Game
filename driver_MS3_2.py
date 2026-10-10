@@ -51,7 +51,7 @@ valid = False # get set to True once puzzle is properly generated
 bonus = True # get sets to True if user plays a bonus word
 
 # set some global variables
-name = "Ahmad"
+name = "Bob"
 words_list = ["nettle", "lynx", "cell", "excellently", "xylene", "cycle"]
 scores_list = [5, 1, 1, 18, 6, 5]
 exec(open("summary.py").read())
