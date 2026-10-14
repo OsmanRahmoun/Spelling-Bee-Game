@@ -8,7 +8,7 @@
 # Author: Shanon Reckinger
 # UIC, CS 111
 
-# Testing editing a file 
+# Testing editing a file again
 
 global word, letters, dictionary, list, name, total_score
 
