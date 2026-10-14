@@ -8,6 +8,8 @@
 # Author: Shanon Reckinger
 # UIC, CS 111
 
+# Testing editing a file 
+
 global word, letters, dictionary, list, name, total_score
 
 # The function returns True is the word is a valid solution for letters
